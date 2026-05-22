@@ -41,7 +41,7 @@
     "dagre": "^0.8.5",
     "devicons-react": "^1.5.0",
     "i18next": "^23.16.8",
-    "next": "^14.2.35",
+    "next": "^15.5.18",
     "react": "^18.3.1",
     "react-diff-viewer-continued": "^3.4.0",
     "react-dom": "^18.3.1",
@@ -54,7 +54,7 @@
     "recharts": "^2.15.4",
     "sass": "^1.93.2",
     "sharp": "^0.32.6",
-    "thrift": "0.16.0"
+    "thrift": "0.23.0"
   },
   "engines": {
     "node": ">=18.17.0"
