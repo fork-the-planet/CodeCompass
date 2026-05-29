@@ -16,7 +16,7 @@
     "marked"           : "^4.0.10",
     "jsplumb"          : "^2.2.1",
     "jquery"           : "^3.1.1",
-    "js-cookie"        : "^2.2.1"
+    "js-cookie"        : "^3.0.7"
   },
   "repository" : {
     "type" : "git",
